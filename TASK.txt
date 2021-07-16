@@ -14,3 +14,5 @@ Here are a couple that might work well:
  - https://www.openbrewerydb.org/documentation/01-listbreweries
 
 Feel free to use any frameworks you would like to achieve the task.
+
+NOTE: Told myself only 3-4 hours max. A couple days would be needed for fully fleshed out site
